@@ -1,0 +1,30 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
+out/
+classes/
+.idea
+*.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
+.asscache
+bin/
+.vscode
+/grails-app/assets/vendor/
+/grails-app/assets/javascripts/bundle.js
+/grails-app/assets/javascripts/command-bundle.js
+/grails-app/assets/javascripts/react-views/
+node_modules
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Generated postgresql data folder
+.postgres-data
+.minio-data
